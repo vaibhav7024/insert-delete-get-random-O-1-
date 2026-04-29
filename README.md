@@ -1,4 +1,4 @@
-# insert-delete-get-random-O-1-
+# insert-delete-get-random-O(1)
 
 Implement the RandomizedSet class:
 
